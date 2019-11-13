@@ -1,5 +1,5 @@
 # CouponManagementSystem
-Back end `JAVA` server project for managing coupons.
+Back end `JAVA` server project for managing coupons system website.
 
 ## About
 The app has a few access levels:
